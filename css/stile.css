@@ -1,0 +1,71 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding:0 ;
+}
+a{
+  text-decoration: none;
+}
+ul,ol{
+  list-style: none;
+}
+.canteiner{
+  width: 1182px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+.header_camteiner{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header_list{
+  display: flex;
+}
+.header_item{
+  margin-left: 68px;
+}
+.conteinerv_hero{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.hero_text{
+  margin: 50px 0;
+  color: #7D7D7D;
+  margin-right: 81px;
+}
+.hero_link{
+  padding: 12px 19px 12px 34px;
+  border-radius: 11px;
+  background: #717CFF;
+  color: #FFF;
+}
+.univer_title{
+  padding-top: 55px;
+  margin-bottom: 86px;
+}
+.canteiner_univer{
+  background-color: #FAFAFA;
+  width: 1440px;
+  align-items:center;  
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items:center;
+  flex-direction: column;
+  
+}
+.univer_list{
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 112px;
+  width: 100%;
+}
+
+.univer_img2{
+  width: 107px;
+  height: 14px;
+  margin-bottom: 57px;  
+}
